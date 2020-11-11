@@ -22,5 +22,6 @@ legend {
 }
 
 label.error {
+    color: red;
     /* Add a style here for your error messages */
 }
